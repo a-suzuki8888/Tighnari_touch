@@ -88,5 +88,5 @@ Tighnari_touch/
 本データの再配布・二次利用・AI学習利用・商用利用は禁止です。
 
 🔒 This is a non-commercial, fan-art based project.  
-All rights to Genshin Impact and the character Xiao belong to HoYoverse.  
+All rights to Genshin Impact and the character Tighnari belong to HoYoverse.  
 Please do not use, redistribute, or repurpose these files.
